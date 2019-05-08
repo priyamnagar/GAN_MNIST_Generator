@@ -3,7 +3,7 @@
 <strong>It uses Generative adversarial network to generate new MNIST images. </strong>
 
 ### Dateset
-* You'll be using the MNIST digit images. 
+* We are using MNIST digit images. 
 
 
 ### Model description
